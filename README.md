@@ -13,7 +13,7 @@
 
 # Download
 
-Go to the releases tab and download the latest version of your prefered version, ```js``` ```wasm```
+Go to the releases tab and download the latest version of your prefered version, ```js```,```wasm```
 
 
 
