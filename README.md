@@ -4,5 +4,5 @@
 
 1.12.2 Eaglercraft hack client
 
-![](icon.png)
+![](logo.png)
 
