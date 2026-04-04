@@ -1,6 +1,6 @@
 # Kiwi
 
-![](https://img.shields.io/github/downloads/isacofff/kiwi/total.svg)
+![](https://img.shields.io/github/downloads/isacofff/kiwi/kiwi/total.svg)
 
 
 ![](logo.png)
