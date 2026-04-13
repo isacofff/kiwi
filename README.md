@@ -26,7 +26,7 @@ Press Backspace to exit, and any other charchter to save the bind.
 Press Right Shift to enter the Gui, navigate it by clicking the above tabs to change the window.
 Click the SearchBar and start typing to search through the Gui.
 
--Commans
+-Commands
 
 Prefix is @ 
 Try @help for a list of commands.
