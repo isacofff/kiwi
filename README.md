@@ -1,3 +1,6 @@
+# This does not contain the latest versions of Kiwi, and no longer will.
+# The new page is at ![](https://codeberg.org/KiwiDevelopment/KiwiRewrite)
+
 # Kiwi
 
 ![](https://img.shields.io/github/downloads/isacofff/kiwi/total.svg)
